@@ -48,6 +48,13 @@ This study applied a **genome-wide subtractive genomics approach** to analyze th
 | **KAAS (KEGG)**   | Functional annotation and KO filtering against human pathways   |
 | **PSORTb**        | Subcellular localization prediction for Gram-negative bacteria  |
 
+![NCBI](https://img.shields.io/badge/NCBI-GenomicDB-blue)
+![CD-HIT](https://img.shields.io/badge/CD--HIT-SequenceClustering-orange)
+![Galaxy](https://img.shields.io/badge/Galaxy-WorkflowPlatform-8a2be2)
+![PBIT](https://img.shields.io/badge/PBIT-SubtractiveGenomics-teal)
+![KAAS](https://img.shields.io/badge/KAAS-KEGGAnnotation-green)
+![PSORTb](https://img.shields.io/badge/PSORTb-LocalizationPredictor-brown)
+
 ---
 
 ## 🔬 Key Findings
